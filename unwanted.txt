@@ -48,3 +48,5 @@ ozon.ru##div[data-widget="bundleDiscountShelf"]
 ozon.ru##div[data-widget="objectBannerList"]
 ozon.ru##div[title="Спонсорский товар"]
 ozon.ru##div[data-widget="objectGrid1"]
+ozon.ru##div[title="Рекомендуемые промо-товары"]
+
