@@ -51,3 +51,5 @@ ozon.ru##div[title="Спонсорский товар"]
 ozon.ru##div[data-widget="objectGrid1"]
 ozon.ru##div[title="Рекомендуемые промо-товары"]
 ozon.ru##div[title="Другие товары продавца"]
+! skyscanner
+skyscanner.ru##div[class="FlightsHotelsSwitchWrapper"]
