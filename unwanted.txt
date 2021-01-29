@@ -56,3 +56,6 @@ skyscanner.ru##div[class="FlightsHotelsSwitchWrapper"]
 
 ! bbc.com
 bbc.com##header[role="banner"]
+
+! pikabu.ru
+pikabu.ru##div[class="promo-banner promo-banner_button"]
