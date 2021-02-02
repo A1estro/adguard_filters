@@ -53,6 +53,10 @@ ozon.ru##div[title="Рекомендуемые промо-товары"]
 ozon.ru##div[title="Другие товары продавца"]
 ! skyscanner
 skyscanner.ru##div[class="FlightsHotelsSwitchWrapper"]
+skyscanner.ru##a[class^="InlineBrandBanner"]
+skyscanner.ru##div[class^="PriceAlertsBanner_banner"]
+skyscanner.ru##div[class^="EcoTicketHeader_ecoHeader"]
+skyscanner.ru##aside[class="strevdaMargin"]
 
 ! bbc.com
 bbc.com##header[role="banner"]
