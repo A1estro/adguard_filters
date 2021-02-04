@@ -63,3 +63,11 @@ bbc.com##header[role="banner"]
 
 ! pikabu.ru
 pikabu.ru##div[class="promo-banner promo-banner_button"]
+
+! apteka.ru 
+apteka.ru##div[class="Carousel ViewHomepage__carousel"] 
+apteka.ru##div[class="ViewHomepage__minishop"] 
+apteka.ru/bitrix/cache/js/s1/
+apteka/kernel_apteka/kernel_apteka.js?15433094351704 
+apteka.ru/bitrix/js/apteka/copyright.js 
+apteka.ru##li[class="recommend"]
