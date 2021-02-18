@@ -15,6 +15,7 @@ www.dns-shop.ru##.items-group__banner
 www.dns-shop.ru##div[class="single-banner-container"]
 dns-shop.ru##div[class="products-list__banner"]
 dns-shop.ru##div[data-role="single-banner-container"]
+dns-shop.ru##div[class="product-card-top__bundle-wrap"]
 ! wildberries
 wildberries.ru##div[class="similar-goods-wrapper j-promo-carousel-wrapper"]
 wildberries.ru##div[class="similar-goods-wrapper"]
