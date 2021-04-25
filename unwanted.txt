@@ -76,6 +76,7 @@ apteka.ru/bitrix/cache/js/s1/
 apteka/kernel_apteka/kernel_apteka.js?15433094351704 
 apteka.ru/bitrix/js/apteka/copyright.js 
 apteka.ru##li[class="recommend"]
+apteka.ru##div[class="Carousel ViewCategoryRoot__banners"]
 
 ! wtf?
 ||efon.ru^$empty
