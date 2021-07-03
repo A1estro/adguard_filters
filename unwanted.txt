@@ -84,3 +84,6 @@ apteka.ru##li[class="OrderItemsList__suggest"]
 
 ! wtf?
 ||efon.ru^$empty
+
+! pochta.ru
+pochta.ru##div[id="traking-page"]
