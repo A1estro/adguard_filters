@@ -60,6 +60,8 @@ ozon.ru##div[data-widget="skuAdvSearchShelf"]
 ozon.ru##div[data-widget="skuScroll"]
 ozon.ru##div[data-widget="skuGrid"]
 ozon.ru##div[data-widget="webCompareShelf"]
+ozon.ru##div[data-widget="skuFeedList"]
+ozon.ru##div[data-widget="skuGrid2"]
 ! skyscanner
 skyscanner.ru##div[class="FlightsHotelsSwitchWrapper"]
 skyscanner.ru##a[class^="InlineBrandBanner"]
