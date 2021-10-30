@@ -91,3 +91,7 @@ apteka.ru##li[class="OrderItemsList__suggest"]
 
 ! pochta.ru
 pochta.ru##div[id="traking-page"]
+
+! Новости компаний
+fontanka.ru##aside[class="ENp Hp"]
+
