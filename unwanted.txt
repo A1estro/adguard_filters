@@ -104,3 +104,5 @@ pochta.ru##div[id="traking-page"]
 ! Новости компаний
 fontanka.ru##aside[class="ENp Hp"]
 
+! Lostfilm
+lostfilm.today##a[title="Любимая дача"]
