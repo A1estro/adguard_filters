@@ -106,3 +106,6 @@ fontanka.ru##aside[class="ENp Hp"]
 
 ! Lostfilm
 lostfilm.today##a[title="Любимая дача"]
+
+! aviasales
+aviasales.ru##div[class="ad-top-placement"]
