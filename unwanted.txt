@@ -70,6 +70,7 @@ ozon.ru##div[data-widget="bundleDetails"]
 ozon.ru###layoutPage > div.f5z:first-child > div.i3c > div > div.i3c:nth-child(4) > div
 ozon.ru##div[data-replace-layout-path="[0][0][3][0][0][0][1][0]"]
 ozon.ru##div[style="background-color: var(--ozCtrlMarketingPale);"]
+ozon.ru##div[data-widget="skuLineLR"]
 
 ! skyscanner
 skyscanner.ru##div[class="FlightsHotelsSwitchWrapper"]
