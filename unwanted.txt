@@ -115,3 +115,6 @@ aviasales.ru##div[class="ad-top-placement"]
 ! Yandex market
 market.yandex.ru##div[data-apiary-widget-name="@marketfront/ModelGalleryWithLogoIncut"]
 market.yandex.ru##div[data-apiary-widget-name="@market/BetterChoice"]
+
+! headhunter
+hh.ru##div[class="Bloko-Notification-Manager notification-manager"]
