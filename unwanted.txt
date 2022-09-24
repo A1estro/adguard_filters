@@ -71,6 +71,10 @@ ozon.ru###layoutPage > div.f5z:first-child > div.i3c > div > div.i3c:nth-child(4
 ozon.ru##div[data-replace-layout-path="[0][0][3][0][0][0][1][0]"]
 ozon.ru##div[style="background-color: var(--ozCtrlMarketingPale);"]
 ozon.ru##div[data-widget="skuLineLR"]
+ozon.ru##div[data-widget="banner"]
+ozon.ru##div[data-widget="objectThumbnailList"]
+ozon.ru##div[data-widget="advBanner"]
+ozon.ru##div[data-widget="objectLine"]
 
 ! skyscanner
 skyscanner.ru##div[class="FlightsHotelsSwitchWrapper"]
