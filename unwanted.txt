@@ -123,3 +123,6 @@ market.yandex.ru##div[data-apiary-widget-id="/headBanner"]
 
 ! headhunter
 hh.ru##div[class="Bloko-Notification-Manager notification-manager"]
+
+! Aeroflot banners
+aeroflot.ru##afl-component[data-component="BannersOffers"]
