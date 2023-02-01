@@ -101,6 +101,7 @@ apteka.ru##div[class="Carousel ViewCategoryRoot__banners"]
 apteka.ru##div[class="Carousel ViewCatalogPage__banners"]
 apteka.ru##li[class="OrderItemsList__suggest"]
 apteka.ru##div[class="ViewHomepage__brands"]
+apteka.ru##div[class="Carousel cartPage__carousel"]
 
 ! wtf?
 ||efon.ru^$empty
