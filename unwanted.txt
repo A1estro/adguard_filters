@@ -122,6 +122,10 @@ aviasales.ru##div[class="ad-top-placement"]
 market.yandex.ru##div[data-apiary-widget-name="@marketfront/ModelGalleryWithLogoIncut"]
 market.yandex.ru##div[data-apiary-widget-name="@market/BetterChoice"]
 market.yandex.ru##div[data-apiary-widget-id="/headBanner"]
+market.yandex.ru##div[data-zone-name="ScrollBox"]
+market.yandex.ru##div[data-zone-name="premium-offers-gallery"]
+market.yandex.ru##div[data-zone-name="AgitationTasks"]
+market.yandex.ru##div[data-zone-name="product-recipes"]
 
 ! headhunter
 hh.ru##div[class="Bloko-Notification-Manager notification-manager"]
