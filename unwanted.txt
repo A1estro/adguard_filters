@@ -76,6 +76,7 @@ ozon.ru##div[data-widget="banner"]
 ozon.ru##div[data-widget="objectThumbnailList"]
 ozon.ru##div[data-widget="advBanner"]
 ozon.ru##div[data-widget="objectLine"]
+ozon.ru##div[data-widget="advVideoBannerMobile"]
 
 ! skyscanner
 skyscanner.ru##div[class="FlightsHotelsSwitchWrapper"]
