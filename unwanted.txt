@@ -131,6 +131,7 @@ market.yandex.ru##div[data-zone-name="ScrollBox"]
 market.yandex.ru##div[data-zone-name="premium-offers-gallery"]
 market.yandex.ru##div[data-zone-name="AgitationTasks"]
 market.yandex.ru##div[data-zone-name="product-recipes"]
+market.yandex.ru##div[data-auto="search-vendor-incut"]
 
 ! headhunter
 hh.ru##div[class="Bloko-Notification-Manager notification-manager"]
