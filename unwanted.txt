@@ -109,6 +109,8 @@ apteka.ru##div[class="cards-list__adv"]
 apteka.ru##div[class="CategoryBanners"]
 apteka.ru##div[class="Carousel ViewCategoryRoot__bannerBottom"]
 apteka.ru##div[class="OrderReviewNotify"]
+apteka.ru##div[class="PrivateOfficeOrders__bought-before"]
+apteka.ru##div[class="EshopGoods ViewProductPage__banner"]
 
 ! wtf?
 ||efon.ru^$empty
