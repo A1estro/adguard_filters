@@ -142,3 +142,13 @@ hh.ru##div[class="Bloko-Notification-Manager notification-manager"]
 
 ! Aeroflot banners
 aeroflot.ru##afl-component[data-component="BannersOffers"]
+
+! youtube endcards
+##.ytp-ce-element
+youtube.com##.annotation
+youtube.com##.ytp-cards-teaser
+youtube.com##.iv-promo
+youtube.com##.ytp-cards-button
+youtube.com##.video-annotations
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-covering-overlay
