@@ -156,3 +156,6 @@ youtube.com##.ytp-ce-covering-overlay
 ! google search on mobile
 google.com##div[aria-label=Реклама]
 google.ru##div[aria-label=Реклама]
+
+! amazon mobile
+amazon.ae##div[data-var=advertiser]
