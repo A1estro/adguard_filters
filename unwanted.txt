@@ -159,3 +159,8 @@ google.ru##div[aria-label=Реклама]
 
 ! amazon mobile
 amazon.ae##div[data-var=advertiser]
+amazon.ae##div[id="above-dp-container"]
+amazon.ae##div[id="organic-complements_feature_div"]
+amazon.ae##div[id="similarities_feature_div"]
+amazon.ae##div[id="rhf-container"]
+amazon.ae##div[data-idt="AXIOM"]
